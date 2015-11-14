@@ -1,1 +1,3 @@
 # Learning_Create_Repo_Rpt
+Hey.... found to edit it... So here is what happened... I first created Learning_Create_Repo, my first Github repo... but
+I missed to include the Readme.... So I went at it again.. and gave the same name again and got the message along the lines... Use another name as the name enetered is already used... So I created Learning_Create_Repo_Rpt, checked on the include Readme checkbox, but missed to incldue any text... So I started exploring and tried to put comment to see if it gets into Readme, but finally found hpw to edit the Readme... Keep experimenting... experiments are guaranteed to teach you, but the problem is too slow and needs time... but hey... the plus is I AM LEARNING....!!!yaaaay....
